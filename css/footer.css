@@ -1,0 +1,43 @@
+@import url(https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css);
+@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+/*header*/
+*{
+	font-family: 'Poppins',sans-serif !important;
+}
+
+#footer {
+  background-image: linear-gradient(to right, #fae89f , #fcc36e);
+    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
+    padding: 50px 0;
+    color: #222222;
+    font-size: 14px;
+    padding: 50px;
+    outline: none;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  #footer .credits {
+    font-size: 13px;
+    padding-top: 5px;
+    color: #222222;
+  }
+  
+  #footer .footer-links a {
+    color: #222222;
+    padding-left: 15px;
+    text-decoration: none;
+  }
+  #footer .footer-links a:hover {
+    color: #f3a93d;
+
+  }
+  
+  #footer .footer-links a:first-child {
+    padding-left: 0;
+  }
+  
+  #footer .footer-links a:hover {
+    color: #3498db;
+  }
+  
